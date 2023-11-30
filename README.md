@@ -29,12 +29,16 @@ Jupyter Notebooks showcasing the fundamentals of TensorFlow and Neural Networks
   > * Convert tensors to NumPy arrays when necessary for computation
   > 
   > * Backend for Pandas DataFrame
+  >
+  > * `meshgrid` to plot decision boundaries created by a model predicting on X
 * MatplotLib
   > * Scatter plots to visualize train, test and pred values
   > 
   > * Plotting a loss curve to analyze the effectivness of our models learning
   > 
   > * Plotting distribution of data pre-normalization
+  >
+  > * `contourf` and `scatter` to create a `plot_decision_boundary()` function 
 * Pandas
   > * DataFrames - Import CSV data into a NumPy array
   > 
@@ -45,3 +49,5 @@ Jupyter Notebooks showcasing the fundamentals of TensorFlow and Neural Networks
   > * `MinMaxScaler` - Normalize numerical columns in our dataset between 0-1
   > 
   > * `OneHotEncoder` - one-hot encode non-numerical columns in our dataset
+  >
+  > * `make_circles` - Create a large dataset of circles
