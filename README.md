@@ -1,4 +1,4 @@
-# Tensorflow_Introduction_Course
+# Tensorflow Introduction
 Jupyter Notebooks showcasing the fundamentals of TensorFlow and Neural Networks
 
 * Python
