@@ -2,11 +2,11 @@
 Jupyter Notebooks showcasing the fundamentals of TensorFlow and Neural Networks
 
 * Python
-  > * Main programming language to run all frameworks
+  > * Programming language to run all frameworks
 * TensorFlow
   > * Our Deep Learning framework of choice for this course
   > 
-  > * Tensors are passed to our models 
+  > * Data as Tensors are passed to our models 
 * Keras
   > * API to build our neural networks models
   > 
